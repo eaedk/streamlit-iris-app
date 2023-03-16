@@ -55,7 +55,7 @@ You need [`Python3`](https://www.python.org/) on your system to setup this app. 
       http://localhost:8501
 
 ## Repository Tree
-.
+```.
 ├── readme.md
 ├── requirements.txt
 ├── screenshots
@@ -67,7 +67,7 @@ You need [`Python3`](https://www.python.org/) on your system to setup this app. 
         └── tmp
 
 7 directories, 4 files
-
+```
 ## Screenshots
 
 <table>
