@@ -44,7 +44,11 @@ except:
     df_history = setup(tmp_df_fp)
 
 # APP Interface
-
+st.image(
+    "https://www.thespruce.com/thmb/GXt55Sf9RIzADYAG5zue1hXtlqc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/iris-flowers-plant-profile-5120188-01-04a464ab8523426fab852b55d3bb04f0.jpg",
+    # "https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2017/11/04133712/waterfall.jpg",
+    # width=400,  # Manually Adjust the width of the image as per requirement
+)
 # Title
 st.title("💐 [Demo] Iris Classification App")
 
