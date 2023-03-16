@@ -1,5 +1,6 @@
 *cache*
 data.csv
+*history.csv
 venv/
 flagged/
 *.DS_Store
