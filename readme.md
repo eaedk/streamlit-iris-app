@@ -75,7 +75,7 @@ You need [`Python3`](https://www.python.org/) on your system to setup this app. 
         <th> Streamlit App </th>
     </tr>
     <tr>
-        <td><img src="./screenshots/img001.png"/></td>
+        <td><img src="./screenshots/img001.jpeg"/></td>
     </tr>
 </table>
 
